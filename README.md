@@ -1,4 +1,4 @@
-# SSL-enabled Postgres DB image
+# SSL-enabled Postgres DB image with Logical WAL Level
 
 This repository contains the logic to build SSL-enabled Postgres images.
 
